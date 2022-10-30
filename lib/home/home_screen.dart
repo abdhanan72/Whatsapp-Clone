@@ -14,7 +14,7 @@ class HomeScreen extends StatelessWidget {
       length: 4,
       child: Scaffold(
         appBar: AppBar(
-          title: const Text('whatsapp_beta'),
+          title: const Text('whatsapp'),
           actions: [
             const Icon(Icons.search),
             PopupMenuButton(
